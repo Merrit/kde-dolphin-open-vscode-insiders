@@ -1,0 +1,16 @@
+ [Desktop Entry]
+ Name = Open in VS Code Insiders
+ Type=Service
+ ServiceTypes=KonqPopupMenu/Plugin
+ MimeType=inode/directory
+ X-KDE-Priority=TopLevel
+ Actions=open-in-vscode-insiders;
+ 
+ [Desktop Action open-in-vscode-insiders]
+ Name=Open in VS Code Insiders
+ Name[nl]=Openen in VS Code Insiders
+ Name[cs]=Otevřít ve VS Code Insiders
+ Name[es]=Abrir en VS Code Insiders
+ Name[pl]=Otwórz za pomocą VS Code Insiders
+ Icon=code-insiders
+ Exec=code-insiders %u
