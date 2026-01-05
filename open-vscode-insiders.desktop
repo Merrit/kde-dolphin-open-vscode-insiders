@@ -12,5 +12,5 @@
  Name[cs]=Otevřít ve VS Code Insiders
  Name[es]=Abrir en VS Code Insiders
  Name[pl]=Otwórz za pomocą VS Code Insiders
- Icon=code-insiders
+ Icon=vscode-insiders
  Exec=code-insiders %u
